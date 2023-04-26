@@ -4,4 +4,5 @@
 
 根据地理学家，地质学见以及其他科学家的研究，澄蓝星球原本没有陆地，只有茫茫无边的海洋。在星落元年有一颗源于外星系的陨星飞向澄蓝，碎片主体碰撞后产生了星落大陆，而其他碎片落在大陆附近，分别形成了其它文明土壤。
 
-![mapf](https://user-images.githubusercontent.com/68500948/232184549-3b168a76-a8f2-4abb-bd33-e9caf4764078.jpg)
+![mapf](https://user-images.githubusercontent.com/68500948/234456270-ae4f4987-c198-4a67-a069-e07072e9c2e3.jpg)
+
